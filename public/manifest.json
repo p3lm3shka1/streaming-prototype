@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Watchparty",
+  "version": "0.1.0",
+  "description": "Синхронизируйте просмотр с друзьями — прототип интерфейса.",
+  "action": {
+    "default_title": "Watchparty",
+    "default_popup": "src/popup.html"
+  },
+  "permissions": ["storage"],
+  "host_permissions": [],
+  "icons": {}
+}
